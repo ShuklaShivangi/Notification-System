@@ -22,20 +22,6 @@ A backend notification service built using FastAPI with full CRUD functionality.
 
 ---
 
-## Project Structure
-
-notification-system/
-├── app/
-│   ├── main.py          # Entry point
-│   ├── database.py      # DB connection
-│   ├── models.py        # DB tables
-│   ├── schemas.py       # Request/Response models
-├── requirements.txt
-├── README.md
-├── .gitignore
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the repository
